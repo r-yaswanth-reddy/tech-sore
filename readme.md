@@ -1,0 +1,1 @@
+This is the basic e-commerce website, which consists of index page in the sense the home page or landing page, a seperate web page for each and every product and a contact page which consists of contact details of the tech store.
